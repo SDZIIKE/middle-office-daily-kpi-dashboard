@@ -40,7 +40,7 @@ The dashboard was developed to support middle office functions by tracking liqui
 ---
 
 ## Dashboard Preview
-![Middle Office Daily KPI Dashboard](dashboard_preview/middle_office_daily_kpi_dashboard.jpeg)
+![Middle Office Daily KPI Dashboard](middle-office-daily-kpi-dashboard/middle_office_daily_kpi_dashboard.jpeg)
 
 ---
 
